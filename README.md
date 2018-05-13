@@ -27,6 +27,7 @@ npm install --save bluebird mongoose mongoose-paginate nodemon
 Para ejecutar el proyecto:
 
 ...
+cd todoapp
 npm start
 ...
 
@@ -51,5 +52,6 @@ npm install --save bootstrap@4.0.0-beta @ng-bootstrap/ng-bootstrap font-awesome
 Para ejecutar el proyecto:
 
 ...
+cd todoapp-angular
 npm serve
 ...
