@@ -16,42 +16,42 @@ Son dos proyectos:
 
 Para crear el proyecto desde 0, ejecuten los siguientes comandos en consola.
 
-...
+```
 npm install -g express express-generator
 express --view=ejs todoapp
 cd todoapp
 npm install
 npm install --save bluebird mongoose mongoose-paginate nodemon
-...
+```
 
 Para ejecutar el proyecto:
 
-...
+```
 cd todoapp
 npm start
-...
+```
 
 
 "todoapp-angular" contiene el frontend, en Angular 
 
 Para crear el proyecto desde 0, ejecuten los siguientes comandos en consola.
 
-...
+```
 npm install -g @angular/cli
 ng new todoapp-angular --style=scss
 cd todoapp-angular
 npm install
-...
+```
 
 Para usar bootstrap y font-awesome:
 
-...
+```
 npm install --save bootstrap@4.0.0-beta @ng-bootstrap/ng-bootstrap font-awesome
-...
+```
 
 Para ejecutar el proyecto:
 
-...
+```
 cd todoapp-angular
 npm serve
-...
+```
