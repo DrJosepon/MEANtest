@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "todoapp-angular/package.json",
+        "todoapp/package.json"
+      ]
+    }
+  }
+}
